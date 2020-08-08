@@ -1,4 +1,4 @@
-name: Rollup & Commit
+name: git Add & Commit
 description: Add & commit files from a path directly from GitHub Actions
 
 inputs:
